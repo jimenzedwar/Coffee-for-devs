@@ -8,4 +8,4 @@ In addition to translating the design, this project also involves consuming a JS
 
 Another aspect of this project is conditional rendering. Conditional rendering allows you to control the display of certain elements based on specific conditions or states. By utilizing TypeScript and a state management (useState hook from react) approach, I dynamically render specific content based on whether a certain condition is met. In the context of this project, you can render different coffee options depending on their availability.
 
-For this project I use React-vite with tailwindCSS and TypeScript.
+For this project I use React-vite with TailwindCSS and TypeScript.
